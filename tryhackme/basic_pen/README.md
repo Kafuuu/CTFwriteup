@@ -1,8 +1,8 @@
 # TryHackMe - Basic Pentesting
 
-# Available port : SSH ....
+# Available port : SSH, etc
 
-# Question
+# Question ------
 
 # Question 1 & 2 
 via nmap
