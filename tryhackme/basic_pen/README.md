@@ -4,17 +4,22 @@
 
 # Question
 
-*1 & 2 via nmap
+# Question 1 & 2 
+via nmap
 
-3 via gobuster
+# Question 3 
+via gobuster
 
-5 via enum4linux
+# Question5  
+via enum4linux
 
+# Question 6 
+via hydra ( 'armando')
 
-6 via hydra ( 'armando')
-7 - SSH
+# Question 7 - SSH
 
-9 - ssh as john and find kay's rsa private keys. 
+# Question 9 
+ssh as john and find kay's rsa private keys. 
 
 hash the key by python /usr/share/john/ssh2john.py kay_id  > id_rsa.txt
 
