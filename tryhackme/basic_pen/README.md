@@ -4,7 +4,7 @@
 
 # Question
 
-1 & 2 via nmap
+*1 & 2 via nmap
 
 3 via gobuster
 
