@@ -5,6 +5,7 @@
 # Question
 
 1 & 2 via nmap
+
 3 via gobuster
 5 via enum4linux
 6 via hydra ( 'armando')
